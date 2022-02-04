@@ -1,0 +1,19 @@
+{
+  "name": "haskell-toy-problems",
+  "version": "1.0.0",
+  "description": "Toy problems on Haskell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itahand/Haskell-Toy-Problems.git"
+  },
+  "author": "Itahand Naizir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itahand/Haskell-Toy-Problems/issues"
+  },
+  "homepage": "https://github.com/Itahand/Haskell-Toy-Problems#readme"
+}
